@@ -194,6 +194,10 @@
 
   > li {
     margin-bottom: $spacing-unit;
+    border: 2px solid white;
+    padding: 8px 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 6px #b9b9b9;
   }
 }
 
